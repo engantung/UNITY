@@ -9,7 +9,7 @@ UNITY 3d Project :
       See the video uploaded in my Youtube channel : https://youtu.be/NYBS_6zrYU0
 
 3) Wizz Chess with Minimax AI Logic,
-  
+![alt text](https://github.com/engantung/UNITY/blob/main/3d_Chess_with_Battle/Figure_chess.png?raw=true)  
       See the video uploaded in my Youtube channel : https://youtu.be/HS_CuGRGoVU
 
 4) Tower Defense (Mobile),
