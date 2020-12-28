@@ -2,7 +2,7 @@
 
 UNITY 3d Project : 
 1) Person Shooter (FPS),
-![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure.png?raw=true)
+![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%201.png?raw=true)
 
 2) RPG (3rd Person),
 ![alt text](https://github.com/engantung/UNITY/blob/main/RPG%20(3rd%20Person%20View)/Figure%203.png?raw=true)
