@@ -12,3 +12,5 @@ Caution
 3. When opening the file, ignore some warnings, just start to play 
 
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%201.png?raw=true)
+
+![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%2.png?raw=true)
