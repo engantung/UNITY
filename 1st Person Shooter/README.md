@@ -1,3 +1,5 @@
+![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure.png?raw=true)
+
 Unity version : Unity2019.4.11f1 Personal <DX11>
 
 How to Open the Files  
@@ -13,4 +15,3 @@ Caution
 
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%201.png?raw=true)
 
-![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure.png?raw=true)
