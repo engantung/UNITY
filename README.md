@@ -1,4 +1,4 @@
-# Edmond's UNITY 3d Project Prototypes
+# UNITY 3d Project Prototypes by Edmond Ngantung
 
 Person Shooting Game (FPS),
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%201.png?raw=true)
