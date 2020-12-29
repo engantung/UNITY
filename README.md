@@ -2,7 +2,6 @@
 
 Person Shooter (FPS),
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%201.png?raw=true)
-
 RPG (3rd Person),
 ![alt text](https://github.com/engantung/UNITY/blob/main/RPG%20(3rd%20Person%20View)/Figure%203.png?raw=true)
       See the video uploaded in my Youtube channel : https://youtu.be/NYBS_6zrYU0
