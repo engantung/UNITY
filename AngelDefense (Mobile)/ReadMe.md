@@ -1,10 +1,12 @@
 Unity version : Unity2019.4.11f1 Personal <DX11>
 
 For Project File
+
 Please noted that Switch to Android Platform and Maximize on Screen are recommended when playing in Unity   
 
 For Android built
-The game has many touchscreen buttons to touch. 
+
+The game needs many touchscreen buttons to play. 
 1. Y	: Attack
 2. X	: Change Weapon
 3. B	: Run
