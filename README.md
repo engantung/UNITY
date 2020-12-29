@@ -6,7 +6,7 @@ RPG (3rd Person View),
 ![alt text](https://github.com/engantung/UNITY/blob/main/RPG%20(3rd%20Person%20View)/Figure%203.png?raw=true)
       See the video uploaded in my Youtube channel : https://youtu.be/NYBS_6zrYU0
 
-3D Chess with Battle Animation and Minimax Artificial Intelligence Searching Logic following with Android sliding touch concept
+3D Chess with Battle and Minimax AI Searching Logic following with Android sliding touch concept
 ![alt text](https://github.com/engantung/UNITY/blob/main/3d_Chess_with_Battle/Figure_chess.png?raw=true)  
       See the video uploaded in my Youtube channel : https://youtu.be/HS_CuGRGoVU
 
