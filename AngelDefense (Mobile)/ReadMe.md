@@ -1,3 +1,5 @@
+![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/Intro.png?raw=true)
+
 Unity version : Unity2019.4.11f1 Personal <DX11>
 
 For Project File
@@ -20,6 +22,12 @@ Also, other touchable buttons such as
 7. Four toggles at the right corner	: Barrier  1, Barrier 2, Barrier 3 & Barrier 4
 
 8. Blue circle with white square		: Paused the game and Hints
+
+
+![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/MainMenu.jpeg?raw=true)
+
+GameHints in Paused Page
+![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/Paused.jpeg?raw=true)
 
 Level 1
 ![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/level01.png?raw=true)
