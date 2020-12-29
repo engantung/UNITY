@@ -24,7 +24,7 @@ Also, other touchable buttons such as
 8. Blue circle with white square		: Paused the game and Hints
 
 
-![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/MainMenu.jpeg?raw=true)
+![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/MainMenu.png?raw=true)
 
 GameHints in Paused Page
 ![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/Paused.jpeg?raw=true)
