@@ -11,5 +11,7 @@ GAME Hints:
 ![alt text](https://github.com/engantung/UNITY/blob/main/RPG%20(3rd%20Person%20View)/Figure%202.png?raw=true)
 
 ![alt text](https://github.com/engantung/UNITY/blob/main/RPG%20(3rd%20Person%20View)/Figure%203.png?raw=true)
+
+![alt text](https://github.com/engantung/UNITY/blob/main/RPG%20(3rd%20Person%20View)/Figure%204.png?raw=true)
       See the video uploaded in my Youtube channel : https://youtu.be/NYBS_6zrYU0
 
