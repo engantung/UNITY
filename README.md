@@ -12,7 +12,6 @@ Wizz Chess with Minimax AI Logic,
 
 Tower Defense (Mobile),
 ![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/level01.png?raw=true)
-      
       See the video uploaded in my Youtube channel : https://youtu.be/t_ZyFV6-Wsc
 
 
