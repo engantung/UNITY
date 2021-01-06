@@ -15,12 +15,9 @@ enemy destroyed into pieces when shooted
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%202.png?raw=true)
 
 in this game, player can distinguish the enemies whether the boss or not when aiming
-if the player shoot the boss, then stop more spawnees 
-
+if the player shoot the boss, then stop more spawnees
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%201.png?raw=true)
-
 Download the project file to try in your Unity : [click here](https://drive.google.com/file/d/1BDN0ESYL_OLqpyeJBY3ZMtgonEV2zVCI/view?usp=sharing)
-
 How to Open the Files  
 1. Unzip the Zipped File
 2. Open the Unity Hub
