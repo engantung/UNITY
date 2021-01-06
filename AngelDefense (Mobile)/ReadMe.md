@@ -2,16 +2,11 @@
 
 Unity version : Unity2019.4.11f1 Personal <DX11>
 
-For Project File
-
-Please noted that Switch to Android Platform and Maximize on Screen are recommended when playing in Unity   
-
-For Android built
-
 GAME Hints:
 ===========
 
-The game needs many touchscreen buttons to play. 
+The game is designed to play in Android-built
+It needs many touchscreen buttons to play. 
 1. Y	: Attack
 2. X	: Change Weapon
 3. B	: Run
@@ -24,6 +19,8 @@ Also, other touchable buttons such as
 7. Four toggles at the right corner	: Barrier  1, Barrier 2, Barrier 3 & Barrier 4
 8. Blue circle with white square		: Paused the game and Hints
 
+If you want to play in Unity as a Project File,
+Please noted that Switch to Android Platform and Maximize on Screen are highly recommended   
 
 ![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/MainMenu.png?raw=true)
 
