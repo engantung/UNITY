@@ -18,6 +18,6 @@ See the video uploaded in my Youtube channel : https://youtu.be/t_ZyFV6-Wsc
 
 
 
-You may have a look to all my UNITY projects in the videos uploaded on My YouTube Channel :
+You may have a look to all my UNITY projects in the videos uploaded on my YouTube Channel :
 https://www.youtube.com/playlist?list=PLwP7CQ8lgTgKXyIwuT0FnSc9DbVB7yfZ_
 
