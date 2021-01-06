@@ -9,7 +9,7 @@ GAME Hints:
 2. Like playing on the tablet: hold the piece with Left Click then Slide to the destination, then Release to move the Piece
 3. Right Click to apply AI for single automatic movement
 
-This 3d chess game requires NavMesh as important role to the chess gameplay 
+This 3d chess game prototype requires NavMesh as important role in the gameplay 
 
 Download the project file to try in your Unity or the built file for playing directly in .exe file: [click here](https://drive.google.com/drive/folders/15d6dbAEWlZyu97_7iIqhLSLuy_swvISk?usp=sharing)
 
