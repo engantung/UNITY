@@ -11,5 +11,7 @@ GAME Hints:
 
 This 3d chess game requires NavMesh as important role to the chess gameplay 
 
+Download the project file to try in your Unity : [click here](https://drive.google.com/file/d/1BDN0ESYL_OLqpyeJBY3ZMtgonEV2zVCI/view?usp=sharing)
+
 ![alt text](https://github.com/engantung/UNITY/blob/main/3d_Chess_with_Battle/Figure_chess.png?raw=true)  
-      See the video uploaded in my Youtube channel : https://youtu.be/HS_CuGRGoVU
+      See the video uploaded in my Youtube channel : [click here](https://youtu.be/HS_CuGRGoVU)
