@@ -20,7 +20,7 @@ Also, other touchable buttons such as
 8. Blue circle with white square		: Paused the game and Hints
 
 If you want to play in Unity as a Project File,
-Please noted that Switch to Android Platform and Maximize on Screen are highly recommended   
+then Please noted that Switch to Android Platform and Maximize on Screen are highly recommended   
 
 ![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/MainMenu.png?raw=true)
 
