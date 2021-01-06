@@ -8,6 +8,9 @@ Please noted that Switch to Android Platform and Maximize on Screen are recommen
 
 For Android built
 
+GAME Hints:
+===========
+
 The game needs many touchscreen buttons to play. 
 1. Y	: Attack
 2. X	: Change Weapon
@@ -17,11 +20,8 @@ The game needs many touchscreen buttons to play.
 Also, other touchable buttons such as
 
 5. Arrows 				: Disable the blocks
-
 6. Stones  				: Activate barrier usage (by default)
-
 7. Four toggles at the right corner	: Barrier  1, Barrier 2, Barrier 3 & Barrier 4
-
 8. Blue circle with white square		: Paused the game and Hints
 
 
