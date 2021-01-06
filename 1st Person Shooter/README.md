@@ -7,13 +7,14 @@ GAME Hints:
 1. Shoot : Left Click
 2. Movement Controller : A (left), W (forward), S (backward), D (right)
 3. Jump : Space Bar
+4. Player need to distinguish the enemies (blue balls) : the boss or commong enemies among the balls if the boss destroyed then no more spawnees
 
 My 1st person shooter game has a simple and single animation by using additional effect : 
 enemy destroyed into pieces when shooted
 
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%202.png?raw=true)
 
-Player can distinguish the enemies whether the boss or not when aiming
+in this game, player can distinguish the enemies whether the boss or not when aiming
 if the player shoot the boss, then stop more spawnees 
 
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%201.png?raw=true)
