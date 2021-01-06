@@ -1,7 +1,7 @@
 Unity version : Unity2019.4.11f1 Personal <DX11>
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure.png?raw=true)
 
-My 1st person shooter game has a simple and single animation and effect : 
+My 1st person shooter game has a simple and single animation by using additional effect : 
 enemy destroyed into pieces when shooted
 
 ![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%202.png?raw=true)
