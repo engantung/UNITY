@@ -5,8 +5,10 @@ Unity version : Unity2019.4.11f1 Personal <DX11>
 My 1st person shooter game has a simple and single animation and effect : 
 enemy destroyed into pieces when shooted
 
-Player can distinguish the enemies whether the boss or not
+Player can distinguish the enemies whether the boss or not when aiming
 if the player shoot the boss, then stop more spawnees 
+
+![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%201.png?raw=true)
 
 How to Open the Files  
 1. Unzip the Zipped File
@@ -18,6 +20,3 @@ Caution
 1. Do not remove the other folders inside of "MyFirst" folder (before the subfolder)
 2. Do not copy or move the file after unzipped, it will be possibly crashed or file corrupted
 3. When opening the file, ignore some warnings, just start to play 
-
-![alt text](https://github.com/engantung/UNITY/blob/main/1st%20Person%20Shooter/Figure%201.png?raw=true)
-
