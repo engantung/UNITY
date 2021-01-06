@@ -5,7 +5,7 @@ Unity version : Unity2019.4.11f1 Personal <DX11>
 GAME Hints:
 ===========
 
-The game is designed to play in Android-built.
+The game prototype is designed to play in Android-built.
 It needs many touchscreen buttons to play. 
 1. Y	: Attack
 2. X	: Change Weapon
