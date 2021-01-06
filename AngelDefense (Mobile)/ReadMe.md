@@ -15,6 +15,7 @@ The game needs many touchscreen buttons to play.
 4. A 	: Blocking and Cancel the player Run
 
 Also, other touchable buttons such as
+
 5. Arrows 				: Disable the blocks
 
 6. Stones  				: Activate barrier usage (by default)
