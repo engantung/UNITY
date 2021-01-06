@@ -19,4 +19,4 @@ This game prototype has a quest to find the items (student cards) and kill the e
 ![alt text](https://github.com/engantung/UNITY/blob/main/RPG%20(3rd%20Person%20View)/Figure%204.png?raw=true) 
       See the video uploaded in my Youtube channel : [click here](https://youtu.be/NYBS_6zrYU0)
 
-Download the project file to try in your Unity or the built file for playing directly in .exe file: [click here](https://youtu.be/NYBS_6zrYU0)
+Download the project file to try in your Unity or the built file for playing directly in .exe file: [click here](https://drive.google.com/drive/folders/13AGnVf1Kxrm8VcV8RhaGF_3inLL8CRlA?usp=sharing)
