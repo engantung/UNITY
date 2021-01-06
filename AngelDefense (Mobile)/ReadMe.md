@@ -5,7 +5,7 @@ Unity version : Unity2019.4.11f1 Personal <DX11>
 GAME Hints:
 ===========
 
-The game prototype is designed to play in Android-built.
+The tower defense game prototype is designed to play in Android-built.
 It needs many touchscreen buttons to play. 
 1. Y	: Attack
 2. X	: Change Weapon
@@ -44,6 +44,6 @@ Level 3 (there are mini bosses)
 ![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/picture2.jpeg?raw=true)
 ![alt text](https://github.com/engantung/UNITY/blob/main/AngelDefense%20(Mobile)/picture3.jpeg?raw=true)
 
-Download the project file to try in your Unity or the built file for playing directly in .exe file: [click here](https://drive.google.com/drive/folders/1tqOMTuBsW_rtSA-_jsBONWSO_pNKvNUI?usp=sharing)
+Download the project file to try in your Unity or the built file for playing directly in .apk file: [click here](https://drive.google.com/drive/folders/1tqOMTuBsW_rtSA-_jsBONWSO_pNKvNUI?usp=sharing)
 
 See the video uploaded in my Youtube channel : [click here](https://youtu.be/t_ZyFV6-Wsc)
