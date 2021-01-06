@@ -2,6 +2,12 @@
 
 Unity version : Unity2019.4.11f1 Personal <DX11>
 
+My 1st person shooter game has a simple and single animation and effect : 
+enemy destroyed into pieces when shooted
+
+Player can distinguish the enemies whether the boss or not
+if the player shoot the boss, then stop more spawnees 
+
 How to Open the Files  
 1. Unzip the Zipped File
 2. Open the Unity Hub
