@@ -19,7 +19,9 @@ Also, other touchable buttons such as
 7. Four toggles at the right corner	: Barrier  1, Barrier 2, Barrier 3 & Barrier 4
 8. Blue circle with white square		: Paused the game and Hints
 
-9. Try to kill zombies and protect the angel statue for 2 minutes until the angel comes replacing the angel statue to kill all the spawnees and end the game.  
+9. Try to kill zombies and gain dollars to build the barriers 
+
+10.Protect the angel statue for 2 minutes until the angel comes replacing the angel statue. All the spawnees will be gone when the angel comes then end the game.  
 
 If you want to play in Unity as a Project File,
 then Please noted that Switch to Android Platform and Maximize on Screen are highly recommended   
